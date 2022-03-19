@@ -4,11 +4,13 @@
             "provider": "github",
             "repo": "suku1989/external-resources-v2"
         },
-        "cn" : {
+        "cn": {
             "provider": "spaces",
             "name": "openblock",
             "path": "resource",
             "region": "sgp1"
         }
-    }
+    },
+    "version": "v0.0.3",
+    "sha256": "9a3b5371b4a4073586a0c28a8aef2c83ad03689287802c8d24878f428cf9cf3f"
 }
